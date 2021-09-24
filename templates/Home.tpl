@@ -9,7 +9,7 @@
             </div>
         </div>
                 
-        <form method="post" action="?class=user&method=login">
+        <form method="post" action="?class=&method=">
             <div class="row">
                 <div class="input-field col s4">
                     <input  name="nombre" id="first_name2" type="email" class="validate"/>
